@@ -1,0 +1,44 @@
+{
+  "name": "umgebung",
+  "version": "1.0.0",
+  "description": "das soll eine Entwicklungsumgebung werden",
+  "main": "index.js",
+  "dependencies": {
+    "babel-core": "^6.26.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "browser-sync": "^2.24.4",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-babel": "^7.0.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-html-minifier": "^0.1.8",
+    "gulp-inject": "^4.3.2",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rename": "^1.2.3",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0",
+    "node-sass": "^4.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghostface76/umgebung.git"
+  },
+  "author": "jens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghostface76/umgebung/issues"
+  },
+  "homepage": "https://github.com/ghostface76/umgebung#readme"
+}
